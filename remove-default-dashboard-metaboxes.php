@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Remove default Dashboard metaboxes
  * Description: Remove default Dashboard metaboxes
- * Version: 0.0.1
+ * Version: 1.0.0
  * Plugin URI: https://github.com/teknologi/remove-default-dashboard-metaboxes
  * Author: Hans Czajkowski Jørgensen
  * Text Domain: teknologi_remove_default_dashboard_metaboxes
