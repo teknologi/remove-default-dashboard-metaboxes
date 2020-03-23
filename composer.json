@@ -1,0 +1,19 @@
+{
+  "name": "teknologi/remove-default-dashboard-metaboxes",
+  "description": "Remove default Dashboard metaboxes",
+  "keywords": [
+    "wordpress"
+  ],
+  "license": "GPL2",
+  "authors": [
+    {
+      "name": "Hans Czajkowski Jørgensen",
+      "email": "hcj@tekno.dk"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "^1.4"
+  }
+}
